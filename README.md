@@ -1,1 +1,1 @@
-[Oregon Trail](./OregonTrail.png)
+![Oregon Trail](./OregonTrail.png)
